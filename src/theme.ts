@@ -1,0 +1,3 @@
+export const colors = { red:'#B91C32', dark:'#142438', muted:'#526478', bg:'#F3F5F8', white:'#FFFFFF', border:'#DBE2EA' };
+export const typeNames: Record<string,string> = {normal:'Normal', fire:'Fogo', water:'Água', electric:'Elétrico', grass:'Planta', ice:'Gelo', fighting:'Lutador', poison:'Venenoso', ground:'Terrestre', flying:'Voador', psychic:'Psíquico', bug:'Inseto', rock:'Pedra', ghost:'Fantasma', dragon:'Dragão', dark:'Sombrio', steel:'Aço', fairy:'Fada'};
+export const statNames: Record<string,string> = {hp:'HP', attack:'Ataque', defense:'Defesa', 'special-attack':'Ataque especial', 'special-defense':'Defesa especial', speed:'Velocidade'};
